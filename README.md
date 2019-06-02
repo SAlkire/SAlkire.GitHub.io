@@ -1,1 +1,1 @@
-# SAlkire.GitHub.io
+# salkire.github.io
