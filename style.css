@@ -2,3 +2,8 @@ body {
 	font: 12px Tahoma, Sans-Serif;
 	background: url(clean.png);
 }
+
+#portrait {
+	height: 80px;
+	width: 30px;
+}
