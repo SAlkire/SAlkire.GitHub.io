@@ -1,7 +1,4 @@
-p {
-  color: blue;
-}
-
-p.thick {
-  font-weight: bold;
+body {
+	font: 12px Tahoma, Sans-Serif;
+	background: url(noise.png);
 }
