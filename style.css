@@ -1,5 +1,5 @@
 body {
-	font: 12px Tahoma, Sans-Serif;
+	font: 14px Tahoma, Sans-Serif;
 	background: url(clean.png);
 }
 
@@ -24,7 +24,7 @@ body {
 #content-contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
-	font-size: 42px;
+	font-size: 44px;
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
@@ -35,11 +35,11 @@ body {
 	padding: 0 0 32px 0;
 
 	font-style: italic;
-	font-size: 20px;
+	font-size: 22px;
 }
 
 #content-professionalheader {
-	font-size: 28px;
+	font-size: 30px;
 }
 
 .date {
@@ -47,12 +47,12 @@ body {
 }
 
 h1 {
-	font-size: 64px;
+	font-size: 66px;
 	margin-bottom: -25px;
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: -6px;
 }
 
@@ -66,7 +66,7 @@ h4{
 }
 
 li {
-	font-size: 18px;
+	font-size: 20px;
 	text-align: left;
 }
 
