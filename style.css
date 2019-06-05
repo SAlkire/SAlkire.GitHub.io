@@ -8,8 +8,8 @@ body {
 }
 
 #container {
-	max-width:100%;
-	max-height:100%;
+	width: 80ox;
+	height: auto;
 	margin: 40px auto 60px;
 
 #content-contact {
