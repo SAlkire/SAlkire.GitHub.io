@@ -1,19 +1,11 @@
 body {
 	font: 14px Tahoma, Sans-Serif;
 	background-image: url(triangle.jpg);
+	margin: 8px;
 }
 
 #pic {
 	float: right;
-}
-
-#button {
-	margin-left: 40%;
-	margin-right: 40%;
-	background-color: #213862;
-
-	border-radius: 15px;
-	height: 100px;
 }
 
 #container {
