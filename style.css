@@ -2,3 +2,7 @@ body {
 	font: 12px Tahoma, Sans-Serif;
 	background: url(clean.png);
 }
+
+#pic {
+	float: right;
+}
