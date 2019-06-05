@@ -1,6 +1,9 @@
 body {
 	font: 14px Tahoma, Sans-Serif;
 	background-image: url(paint.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
 }
 
 #pic {
