@@ -10,9 +10,6 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	background: rgba(0, 19, 151, 0.1);
-	padding: 10px;
-	text-align:justify;
 }
 
 #content-contact {
